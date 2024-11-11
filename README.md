@@ -1,4 +1,7 @@
+Hi there! 👋 I'm Hariom Suraj Kabra
+
 # 💫 About Me:
+
 I'm a passionate Full-Stack Developer specializing in Django, backend development, and AI-driven applications. With hands-on experience in building dynamic web applications, I love creating impactful solutions that merge clean code with practical functionality. From developing scalable e-commerce platforms to AI-based systems, my work focuses on combining innovation with reliability. I’m constantly exploring new technologies to push the boundaries of what’s possible and contribute meaningfully to the tech community. Let's build something great together!<br><br>
 
 
