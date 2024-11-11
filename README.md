@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Hariom Suraj Kabra
+# 💫 Hi there! 👋 I'm Hariom Suraj Kabra:
 
 # 💫 About Me:
 
@@ -15,7 +15,9 @@ I'm a passionate Full-Stack Developer specializing in Django, backend developmen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hariom Kabra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom Kabra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Hariom Kabra&icon=0&color=0)](https://visitcount.itsvg.in)
+# Looking for Opportunities:
+I'm a passionate Full-Stack Developer specializing in Django, backend development, and AI-driven applications. With hands-on experience in building dynamic, scalable web applications, I love creating impactful solutions that combine clean code with practical functionality. From e-commerce platforms to AI-powered systems, my work is all about pushing boundaries and delivering reliable, user-focused products.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm always exploring new technologies and am currently seeking exciting opportunities to contribute to innovative projects and grow alongside a talented team. Let's connect and build something great together!
+
+
