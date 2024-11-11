@@ -1,4 +1,4 @@
-# 💫 Hi there! 👋 I'm Hariom Suraj Kabra:
+# Hi there! 👋 I'm Hariom Suraj Kabra:
 
 # 💫 About Me:
 
